@@ -1,4 +1,4 @@
-MyBatis JPetStore !!RKD!!!! Feature for AI Sciketlearn model
+MyBatis JPetStore !!RKD testimg!!!! Feature for AI Sciketlearn model
 ======================
 
 [![Java CI](https://github.com/mybatis/jpetstore-6/actions/workflows/ci.yaml/badge.svg)](https://github.com/mybatis/jpetstore-6/actions/workflows/ci.yaml)
